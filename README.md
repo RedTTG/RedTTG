@@ -6,6 +6,7 @@ aka <i><b>Red</b></i>
 A small passionate self-taught developer
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/8476b424-8eba-4378-8072-7c411c5c61b7.svg)](https://wakatime.com/@8476b424-8eba-4378-8072-7c411c5c61b7)
 <h4>Here's my profile description</h4>
 
 - 🔭 I’m currently working on mathy nerdy stuff 😜

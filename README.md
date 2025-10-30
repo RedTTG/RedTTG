@@ -13,18 +13,14 @@ A small passionate self-taught developer
 - 🔨 Good at backend and database development, graphics and more. Good at multitasking and switching between tasks
 - 🌱 Currently busy, counting my bits with cool projects 😎
 - 👯 I’m looking to collaborate on anything 🙌
-- 🤔 I’m looking for help with anything (mostly [Docs](https://github.com/JustRedTTG/PGE))
+- 🤔 I’m looking for help with anything
 - 💬 Ask me about my projects and about collaborating 💖
     After all, collaboration is key!
 - 📫 How to reach me: [Discord](https://discord.gg/cDbCBN5EZN)
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: She/Her (I'm trans)
 - ⚡ Fun fact: I love mazes! 
 - 💸 Support me: [PayPal](https://www.paypal.com/paypalme/redttg) ❤️ I need it 😓
 
 &nbsp;
 
 <b>Fun:</b> [Play Mazes!](https://redttg.com/mazes/quick)
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/JustRedTTG/JustRedTTG/master/image.png" width="100%" height="auto"/>

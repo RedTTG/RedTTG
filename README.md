@@ -20,7 +20,3 @@ A small passionate self-taught developer
 - 😄 Pronouns: She/Her (I'm trans)
 - ⚡ Fun fact: I love mazes! 
 - 💸 Support me: [PayPal](https://www.paypal.com/paypalme/redttg) ❤️ I need it 😓
-
-&nbsp;
-
-<b>Fun:</b> [Play Mazes!](https://redttg.com/mazes/quick)

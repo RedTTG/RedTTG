@@ -37,14 +37,14 @@ aka <i><b>Red</b></i>
 <tr border="none">
 <td width="50%" align="center">
   
-  ![RedTTG's Stats](https://github-readme-stats.vercel.app/api?username=RedTTG&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RedTTG&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=RedTTG&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)
   <br></br>
-  ![RedTTG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RedTTG&theme=dracula&hide_border=true) 
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=RedTTG&custom_title=My%20Wakatime%20stats&langs_count=8&theme=dracula)](https://wakatime.com/@RedTTG)
 </td>
 
 <td width="50%" align="center">
 
-  ![RedTTG's Most used languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RedTTG&theme=dracula&hide_border=true&langs_count=10)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RedTTG&langs_count=10&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=RedTTG&langs_count=10&theme=dracula)
   
   </td>
 </tr>
